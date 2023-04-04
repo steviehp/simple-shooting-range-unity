@@ -1,2 +1,2 @@
-# simple-shooting-range-unity
-simple shooting range game made in Unity
+# Shooting Range in Unity
+This is a simple shooting range program I made in Unity.
